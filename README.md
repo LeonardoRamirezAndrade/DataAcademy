@@ -1,4 +1,4 @@
-# DataAcademy
+# DataAcademy - Reto primer curso
 Python Cardio
 
 Reto 1 - Área de un triángulo
